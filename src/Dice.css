@@ -1,0 +1,6 @@
+.Dice {
+  margin: 1em;
+  min-height: 10vw;
+  display: flex;
+  justify-content: space-between;
+}
